@@ -138,7 +138,7 @@ If you find this repository helpful:
 🎓 Computer Science Student | 💻 Aspiring Software Engineer
 
 * GitHub: [https://github.com/Rakshit1804kumar](https://github.com/Rakshit1804kumar)
-* LinkedIn: *[Add your LinkedIn link]*
+* LinkedIn: *https://www.linkedin.com/in/rakshit-kumar-248a2b294/*
 
 ---
 
