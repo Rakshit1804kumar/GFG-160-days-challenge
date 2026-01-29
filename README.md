@@ -11,7 +11,7 @@ I will be solving **one problem every day** and pushing the solution to GitHub a
 * **Platform:** GeeksforGeeks (GFG)
 * **Duration:** 160 Days
 * **Language Used:** Java (Primary)
-* **Start Date:** *[Add your start date]*
+* **Start Date:** *29 Jan 2026*
 * **Status:** 🚧 Ongoing
 
 ---
@@ -85,7 +85,7 @@ For every problem, I ensure:
 
 ## 🔗 GFG Profile
 
-* **GeeksforGeeks Profile:** *[Add your GFG profile link]*
+* **GeeksforGeeks Profile:** *https://www.geeksforgeeks.org/profile/rakshit1804kumar?tab=activity*
 
 ---
 
