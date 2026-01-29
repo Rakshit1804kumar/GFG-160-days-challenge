@@ -101,8 +101,8 @@ For every problem, I ensure:
 
 | Day     | Problem      | Status      |
 | ------- | ------------ | ----------- |
-| Day 1   | Problem Name | ✅ Completed |
-| Day 2   | Problem Name | ✅ Completed |
+| Day 1   | Second Largest | ✅ Completed |
+| Day 2   | Problem Name | ⏳ Pending  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
