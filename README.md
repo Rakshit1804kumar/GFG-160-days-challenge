@@ -102,7 +102,7 @@ For every problem, I ensure:
 | Day     | Problem      | Status      |
 | ------- | ------------ | ----------- |
 | Day 1   | Second Largest | ✅ Completed |
-| Day 2   | Problem Name | ⏳ Pending  |
+| Day 2   | Move all Zeros to End of Array | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
