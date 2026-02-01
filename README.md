@@ -103,7 +103,8 @@ For every problem, I ensure:
 | ------- | ------------ | ----------- |
 | Day 1   | Second Largest | ✅ Completed |
 | Day 2   | Move all Zeros to End of Array | ✅ Completed  |
-| Day    |  Reverse an Array | ✅ Completed  |
+| Day 3   |  Reverse an Array | ✅ Completed  |
+| Day 4   |  Rotate Array | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
