@@ -105,6 +105,7 @@ For every problem, I ensure:
 | Day 2   | Move all Zeros to End of Array | ✅ Completed  |
 | Day 3   |  Reverse an Array | ✅ Completed  |
 | Day 4   |  Rotate Array | ✅ Completed  |
+| Day    |  Next Permutation| ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
