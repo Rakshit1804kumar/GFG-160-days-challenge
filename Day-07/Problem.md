@@ -82,10 +82,23 @@ This approach effectively captures **all profitable upward trends**.
 
 ---
 
+### ✅ Solution 3: Simple Greedy (Peak-Valley Difference)
+- Traverse the array once.
+- Whenever `prices[i+1] > prices[i]`, add the difference to profit.
+- This automatically sums all profitable upward movements.
+
+**Key Idea:**  
+All consecutive increasing differences together form the total maximum profit.
+
+**Time Complexity:** `O(N)`  
+**Space Complexity:** `O(1)`
+
+---
+
 ## ⏱️ Complexity Summary
 
 | Solution | Time Complexity | Space Complexity | Status |
 |--------|-----------------|------------------|--------|
-| Recursive Brute Force | Exponential (TLE) | O(N) | ❌ Not Efficient |
-| Greedy Approach | O(N) | O(1) | ✅ Optimal |
- 
+| Recursive Brute Force | Exponential | O(N) | ❌ TLE |
+| Greedy (Min–Max) | O(N) | O(1) | ✅ Optimal |
+| Greedy (Difference) | O(N) | O(1) | ✅ Optimal |
