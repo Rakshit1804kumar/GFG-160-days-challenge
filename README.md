@@ -105,8 +105,9 @@ For every problem, I ensure:
 | Day 2   | Move all Zeros to End of Array | ✅ Completed  |
 | Day 3   |  Reverse an Array | ✅ Completed  |
 | Day 4   |  Rotate Array | ✅ Completed  |
-| Day  5|  Next Permutation| ✅ Completed  |
-| Day  6|  Majority Element - More Than n/3| ✅ Completed  |
+| Day 5   |  Next Permutation| ✅ Completed  |
+| Day 6   |  Majority Element - More Than n/3| ✅ Completed  |
+| Day 7   |  Stock Buy and Sell – Multiple Transaction Allowed| ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
