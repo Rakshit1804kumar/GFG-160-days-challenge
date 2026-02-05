@@ -108,6 +108,7 @@ For every problem, I ensure:
 | Day 5   |  Next Permutation| ✅ Completed  |
 | Day 6   |  Majority Element - More Than n/3| ✅ Completed  |
 | Day 7   |  Stock Buy and Sell – Multiple Transaction Allowed| ✅ Completed  |
+| Day 8   |  Stock Buy and Sell – Max one Transaction Allowed| ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
