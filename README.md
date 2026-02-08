@@ -111,6 +111,7 @@ For every problem, I ensure:
 | Day 8   |  Stock Buy and Sell – Max one Transaction Allowed| ✅ Completed  |
 | Day 9   |  Minimize the Maximum Difference Between Heights| ✅ Completed  |
 | Day 10   |  Maximum Subarray Sum (Kadane’s Algorithm)| ✅ Completed  |
+| Day 11   |  Maximum Product Subarray | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
