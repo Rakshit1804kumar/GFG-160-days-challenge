@@ -112,6 +112,7 @@ For every problem, I ensure:
 | Day 9   |  Minimize the Maximum Difference Between Heights| ✅ Completed  |
 | Day 10   |  Maximum Subarray Sum (Kadane’s Algorithm)| ✅ Completed  |
 | Day 11   |  Maximum Product Subarray | ✅ Completed  |
+| Day 12   |  Max Circular Subarray Sum | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
