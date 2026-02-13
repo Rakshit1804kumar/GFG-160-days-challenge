@@ -58,10 +58,11 @@ Best subarray is `[0]`
 
 ---
 
+
 ### ❌ Solution 1: Brute Force (TLE)
-- Generate all subarrays
+- Generate all possible subarrays
 - Compute product of each subarray
-- Keep track of maximum product
+- Track maximum product
 
 **Time Complexity:** `O(N²)`  
 **Space Complexity:** `O(1)`
@@ -71,12 +72,25 @@ Nested loops → too slow for large inputs → **Time Limit Exceeded**
 
 ---
 
+### ✅ Solution 2: Prefix–Suffix Traversal (Optimized)
+- Traverse array from left → maintain prefix product
+- Traverse array from right → maintain suffix product
+- Reset product to 1 whenever it becomes 0
+- Maximum product will be the maximum among prefix and suffix products
+
+**Key Idea:**  
+Negative numbers flip sign of product, so scanning from both directions ensures we don't miss the best subarray.
+
+**Time Complexity:** `O(N)`  
+**Space Complexity:** `O(1)`
+
+---
 
 ## ⏱️ Complexity Summary
 
 | Solution | Time Complexity | Space Complexity | Status |
 |--------|-----------------|------------------|--------|
 | Brute Force | O(N²) | O(1) | ❌ TLE |
- 
+| Prefix–Suffix | O(N) | O(1) | ✅ Optimal |
 
  
