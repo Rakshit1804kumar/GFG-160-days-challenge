@@ -113,6 +113,7 @@ For every problem, I ensure:
 | Day 10   |  Maximum Subarray Sum (Kadane’s Algorithm)| ✅ Completed  |
 | Day 11   |  Maximum Product Subarray | ✅ Completed  |
 | Day 12   |  Max Circular Subarray Sum | ✅ Completed  |
+| Day 13   |  Smallest Positive Missing | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
