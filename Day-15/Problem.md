@@ -79,7 +79,4 @@ We process digits from **right to left** and maintain a carry just like decimal 
 - **Time Complexity:** `O(N)`  
 - **Space Complexity:** `O(N)` (result string)
 
----
-
-## 🔗 Problem Link (GeeksforGeeks)
-https://www.geeksforgeeks.org/problems/add-binary-strings3805/1
+ 
