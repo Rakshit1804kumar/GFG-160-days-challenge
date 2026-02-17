@@ -117,6 +117,7 @@ For every problem, I ensure:
 | Day 14   |  Implement Atoi (String to Integer) | ✅ Completed  |
 | Day 15   |  Add Binary Strings | ✅ Completed  |
 | Day 16   |  Anagram | ✅ Completed  |
+| Day 17   |  First non-repeating character of given string | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
