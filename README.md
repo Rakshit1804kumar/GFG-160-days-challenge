@@ -114,6 +114,9 @@ For every problem, I ensure:
 | Day 11   |  Maximum Product Subarray | ✅ Completed  |
 | Day 12   |  Max Circular Subarray Sum | ✅ Completed  |
 | Day 13   |  Smallest Positive Missing | ✅ Completed  |
+| Day 14   |  Implement Atoi | ✅ Completed  |
+| Day 15   |  Add Binary Strings | ✅ Completed  |
+| Day 16   |  Anagram | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
