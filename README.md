@@ -118,6 +118,7 @@ For every problem, I ensure:
 | Day 15   |  Add Binary Strings | ✅ Completed  |
 | Day 16   |  Anagram | ✅ Completed  |
 | Day 17   |  First non-repeating character of given string | ✅ Completed  |
+| Day 18   |  KMP Algorithm for Pattern Searching | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
