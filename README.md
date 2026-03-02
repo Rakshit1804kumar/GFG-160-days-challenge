@@ -120,6 +120,9 @@ For every problem, I ensure:
 | Day 17   |  First non-repeating character of given string | ✅ Completed  |
 | Day 18   |  KMP Algorithm for Pattern Searching | ✅ Completed  |
 | Day 19   |  Min Chars to Add for Palindrome | ✅ Completed  |
+| Day 20  | Strings Rotations of Each Other | ✅ Completed  |
+| Day 21   |  Sort 0s, 1s and 2s | ✅ Completed  |
+| Day 22   |  Find H-Index | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
