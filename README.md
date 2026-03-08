@@ -123,12 +123,22 @@ For every problem, I ensure:
 | Day 20  | Strings Rotations of Each Other | ✅ Completed  |
 | Day 21   |  Sort 0s, 1s and 2s | ✅ Completed  |
 | Day 22   |  Find H-Index | ✅ Completed  |
+| Day 23   |  Count Inversions| ✅ Completed  |
+| Day 24   |  Overlapping Intervals | ✅ Completed  |
+| Day 25   |  Insert Interval| ✅ Completed  |
+| Day 26  |  Non-overlapping Intervals | ✅ Completed  |
+| Day 27   |  Merge Without Extra Space | ✅ Completed  |
+| Day 28   |  Number of occurrence | ✅ Completed  |
+| Day 29   |  Sorted and Rotated Minimum| ✅ Completed  |
+| Day 30   |  Search in Rotated Sorted Array | ✅ Completed  |
+| Day 31  |  Peak element| ✅ Completed  |
+| Day 32   |  K-th element of two Arrays | ✅ Completed  |
 | ...     | ...          | ...         |
 | Day 160 | Problem Name | ⏳ Pending   |
 
 ---
 
-## 🤝 Contributions & Feedback
+## 🤝 Contributions & Feedback 
 
 This repository is primarily for learning and self-improvement.
 
